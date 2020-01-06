@@ -1,3 +1,3 @@
-module github.com/xianyunyh/dingdingBot
+module github.com/xianyunyh/dingding-bot
 
 go 1.13
